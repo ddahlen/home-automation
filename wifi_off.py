@@ -6,7 +6,7 @@ from aiy.voice.audio import play_wav
 SSH_IP = '192.168.1.1'
 SSH_USER = 'admin'
 SSH_PORT = 2222
-CRED_PATH = '/home/pi/scripts/.creds'
+CRED_PATH = '/home/pi/scripts/home-automation/.creds'
 COMMAND_ON = 'radio on'
 COMMAND_OFF = 'radio off'
 
